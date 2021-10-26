@@ -1,0 +1,17 @@
+Jaws,01/01/1979,15,Spielberg,Warner,A biteful
+One,12/12/1999,18,Terry,HBO,Yuck
+Valhala Rising,10/10/2016,21,Thorsen,Norway Films,Good
+The Proposition,01/04/2015,18,N. Cave,AMG,Excellent
+SpaceBalls,02/03/1983,12,M. Brooks,Warner,Funny
+The Hunger Games,03/11/2013,12,Gary Ross, ,Excellent
+Salt,18/09/2010,15,Phillip Noyce, ,Good
+Gladiator,12/05/2000,15,Ridley Scot, ,Grand
+Le Samourai,25/10/1967,15,Jean-Pierre Melville, ,Excellent
+The Platform,20/03/2020,13,Galder Gaztelu-Urrutia, ,Disturbing
+The Old Guard,10/07/2020,15,Gina Prince-Bythewood, ,Excellent
+Squid Game,17/09/2021,17,Hwang Dong-hyuk, , Disturbing
+The exorcism of Emily Rose,09/09/2005,13,Scott Derrickson, ,Good
+The Shallows,12/08/2016,13,Jaume Collet-Serra, ,Good
+Escape room,01/02/2019,13,Adam Robitel, ,Excellent
+It's Complicated,08/01/2010,16,Nancy Meyers, ,Excellent
+Bird box,21/12/2018,17,Susanne Bier, ,Good
